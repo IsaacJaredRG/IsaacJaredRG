@@ -2,7 +2,7 @@
 
 
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/IsaacJaredRG">
 		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DF736&center=true&width=435&lines=Data+Engineer+;Always+developing+my+skills">
 	</a>
 </p>
